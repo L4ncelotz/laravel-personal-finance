@@ -65,9 +65,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-
-// ตกแต่งความสวยงาม / css framework
-เพิ่มรายละเอียดข้อมูล 10 รายการ
-รูปภาพ
-ถ้าจะดูรายละเอียดสินค้า (show) ต้องผ่าน Authentication
